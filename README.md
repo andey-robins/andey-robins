@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on a distributed, community driven platform for [writing books](https://github.com/andey-robins/distributed-writing).
+I'm currently learning go to expand my skills on the backend. You can see some of my progress [here](https://open.kattis.com/users/andey-robins).
+I'm looking to calloborate on any projects that look to distribute and decentralize the world!
+Visit my [portfolio](https://andey-robins.github.io/portfolio/) or my [blog](https://andey-robins.github.io) to catch up with what I'm doing right now.
