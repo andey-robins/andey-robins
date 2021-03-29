@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've most recently been working on a blockchain based, hemp distribution tracking application for JarrowTech, [here](https://github.com/Jarrow-Tech/JarrowTech)
+I've most recently been working for Xplor Adventures as their Lead Fullstack Developer.
+
+I've previously worked on a blockchain based, hemp distribution tracking application for JarrowTech, [here](https://github.com/Jarrow-Tech/JarrowTech)
 
 I'm currently learning go to expand my skills on the backend. You can see some of my progress [here](https://open.kattis.com/users/andey-robins).
 
