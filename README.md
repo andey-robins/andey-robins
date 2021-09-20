@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've most recently been working for Xplor Adventures as their Lead Fullstack Developer.
+I'm currently a PhD Student at the University of Wyoming studying self designing, decentralized systems.
 
-I've previously worked on a blockchain based, hemp distribution tracking application for JarrowTech, [here](https://github.com/Jarrow-Tech/JarrowTech)
+I've previously worked on a blockchain based, hemp distribution tracking application for JarrowTech, [here](https://github.com/Jarrow-Tech/JarrowTech) and on "Tinder for Rock Climbers" at Xplor Adventures LLC as a full stack engineer.
 
 I'm currently learning go to expand my skills on the backend. You can see some of my progress [here](https://open.kattis.com/users/andey-robins).
 
 I'm looking to calloborate on any projects that look to distribute and decentralize the world!
 
-Visit my [portfolio](https://andey-robins.github.io/portfolio/) or my [blog](https://andey-robins.github.io) to catch up with what I'm doing right now.
+Visit my [portfolio](https://portfolio.andeyrobins.org) or my [blog](https://blog.andeyrobins.org) to catch up with what I'm doing right now.
