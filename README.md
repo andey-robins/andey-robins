@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a PhD Student at the University of Wyoming studying self designing, decentralized systems.
+I'm currently a PhD Student at the University of Central Florida investigating the intersections of formal verification methods and artificial intelligence.
 
 <!-- ![Andey's GitHub stats](https://github-readme-stats.vercel.app/api?username=andey-robins&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true)
  -->
